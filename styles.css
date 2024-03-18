@@ -1,1 +1,27 @@
 /* Write your CSS here! */
+#mainHeading {
+    text-align: center;
+    font-size: 24px;
+    color: rgb(109, 40, 109)
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+/* .center {
+    text-align: center; 
+}*/
+
+h4 {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(109, 40, 109)
+}
+
+.funParagraph {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+

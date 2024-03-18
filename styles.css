@@ -2,7 +2,7 @@
 #mainHeading {
     text-align: center;
     font-size: 24px;
-    color: rgb(109, 40, 109)
+    color: red;
 }
 
 body {
@@ -21,7 +21,7 @@ h4 {
 }
 
 .funParagraph {
-    background-color: lightblue;
-    font-family: Arial, sans-serif;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
